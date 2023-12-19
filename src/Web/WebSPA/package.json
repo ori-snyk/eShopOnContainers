@@ -37,7 +37,7 @@
     "@angular/platform-browser-dynamic": "10.2.3",
     "@angular/platform-server": "10.2.3",
     "@angular/router": "10.2.3",
-    "@microsoft/signalr": "3.0.1",
+    "@microsoft/signalr": "5.0.0",
     "@ng-bootstrap/ng-bootstrap": "^8.0.0",
     "@popperjs/core": "2.0.0",
     "acorn": "^6.4.1",
@@ -55,7 +55,7 @@
     "rxjs-compat": "^6.5.2",
     "tslib": "^2.0.0",
     "typedoc": "^0.19.2",
-    "webpack-dev-server": "3.1.14",
+    "webpack-dev-server": "4.0.0",
     "zone.js": "~0.10.2",
     "ssri": ">=8.0.1",
     "is-svg": ">=4.2.2"
